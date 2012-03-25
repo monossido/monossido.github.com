@@ -6,6 +6,7 @@
 /archivio.html
 /page2/index.html
 
+/2012/03/26/Piangono
 /2012/03/18/Spring-is-coming-2
 /2012/03/18/Trova-le-differenze-2
 /2012/03/14/Vietato-fallire
