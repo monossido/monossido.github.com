@@ -4,25 +4,13 @@
  <title>Colle di Berta</title>
  <link href="/atom.xml" rel="self"/>
  <link href=""/>
- <updated>2012-03-26T12:35:18+02:00</updated>
+ <updated>2012-03-26T12:43:53+02:00</updated>
  <id></id>
  <author>
    <name>Lorenzo Braghetto</name>
    <email>monossido@lorenzobraghetto.com</email>
  </author>
 
- 
- <entry>
-   <title>Piangono</title>
-   <link href="/2012/03/26/Piangono"/>
-   <updated>2012-03-26T00:00:00+02:00</updated>
-   <id>h/2012/03/26/Piangono</id>
-   <content type="html">&lt;figure class=&quot;center&quot;&gt;  
-    &lt;img alt=&quot;rovi vs man&quot; src=&quot;http://colleberta.lorenzobraghetto.com/img/fromPost/IMG_20120325_173550.jpg&quot;&gt;
-    &lt;figcaption&gt;Anche le vigne piangono&lt;/figcaption&gt;
-&lt;/figure&gt;
-</content>
- </entry>
  
  <entry>
    <title>'mbriagon</title>
@@ -32,6 +20,18 @@
    <content type="html">&lt;figure class=&quot;center&quot;&gt;  
     &lt;img alt=&quot;rovi vs man&quot; src=&quot;http://colleberta.lorenzobraghetto.com/img/fromPost/IMG_0159.jpg&quot;&gt;
     &lt;figcaption&gt;Al posto dell'acqua magari prima o poi ci sarà il nostro vino :P&lt;/figcaption&gt;
+&lt;/figure&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Piangono</title>
+   <link href="/2012/03/25/Piangono"/>
+   <updated>2012-03-25T22:00:00+02:00</updated>
+   <id>h/2012/03/25/Piangono</id>
+   <content type="html">&lt;figure class=&quot;center&quot;&gt;  
+    &lt;img alt=&quot;rovi vs man&quot; src=&quot;http://colleberta.lorenzobraghetto.com/img/fromPost/IMG_20120325_173550.jpg&quot;&gt;
+    &lt;figcaption&gt;Anche le vigne piangono&lt;/figcaption&gt;
 &lt;/figure&gt;
 </content>
  </entry>
