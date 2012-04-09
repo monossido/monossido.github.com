@@ -4,13 +4,26 @@
  <title>Colle di Berta</title>
  <link href="/atom.xml" rel="self"/>
  <link href=""/>
- <updated>2012-04-01T22:49:07+02:00</updated>
+ <updated>2012-04-09T11:32:06+02:00</updated>
  <id></id>
  <author>
    <name>Lorenzo Braghetto</name>
    <email>monossido@lorenzobraghetto.com</email>
  </author>
 
+ 
+ <entry>
+   <title>First Test Passed</title>
+   <link href="/2012/04/09/First-test-passed"/>
+   <updated>2012-04-09T00:00:00+02:00</updated>
+   <id>h/2012/04/09/First-test-passed</id>
+   <content type="html">&lt;figure class=&quot;center&quot;&gt;  
+    &lt;img alt=&quot;brindisi&quot; src=&quot;http://colleberta.lorenzobraghetto.com/img/fromPost/P10402792a.jpg&quot;&gt;
+    &lt;figcaption&gt;Bivacco Colmont 1854m, brindisi col vino del Colle&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Le Prime Foglie</title>
