@@ -5,7 +5,11 @@
 /tag.html
 /archivio.html
 /page2/index.html
+/page3/index.html
 
+/2012/04/11/Largo-ai-giovani
+/2012/04/11/La-forza-della-vita%26%2347%3Be
+/2012/04/11/Abbandonato
 /2012/04/09/First-test-passed
 /2012/04/01/Le-prime-foglie
 /2012/03/29/Storia
