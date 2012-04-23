@@ -7,6 +7,8 @@
 /page2/index.html
 /page3/index.html
 
+/2012/04/22/Grigliata
+/2012/04/22/Colli%2C+bici
 /2012/04/11/Largo-ai-giovani
 /2012/04/11/La-forza-della-vita%26%2347%3Be
 /2012/04/11/Abbandonato
