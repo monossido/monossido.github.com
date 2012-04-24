@@ -4,13 +4,22 @@
  <title>Colle di Berta</title>
  <link href="/atom.xml" rel="self"/>
  <link href=""/>
- <updated>2012-04-23T14:11:59+02:00</updated>
+ <updated>2012-04-24T22:19:29+02:00</updated>
  <id></id>
  <author>
    <name>Lorenzo Braghetto</name>
    <email>monossido@lorenzobraghetto.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Addio</title>
+   <link href="/2012/04/24/Addio"/>
+   <updated>2012-04-24T00:00:00+02:00</updated>
+   <id>h/2012/04/24/Addio</id>
+   <content type="html">&lt;blackqoute&gt;Quando avranno inquinato l'ultimo fiume, abbattuto l'ultimo albero, preso l'ultimo bisonte, pescato l'ultimo pesce, solo allora si accorgeranno di non poter mangiare il denaro accumulato nelle loro banche.&lt;/blackquote&gt; &lt;a href=&quot;http://it.wikiquote.org/wiki/Toro_Seduto&quot;&gt;Toro Seduto&lt;/a&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Grigliata</title>
@@ -29,6 +38,18 @@
    <link href="/2012/04/22/Colli%2C-bici"/>
    <updated>2012-04-22T00:00:00+02:00</updated>
    <id>h/2012/04/22/Colli,-bici</id>
+   <content type="html">&lt;figure class=&quot;center&quot;&gt;  
+    &lt;img alt=&quot;prefioritura&quot; src=&quot;http://colleberta.lorenzobraghetto.com/img/fromPost/IMG_20120423_000043.jpg&quot;&gt;
+    &lt;figcaption&gt;Colli, il vantaggio di andarci in bici. Tramonto sui colli da via Lungo Argine, Abano&lt;/figcaption&gt;
+&lt;/figure&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Colli, bici</title>
+   <link href="/2012/04/22/Colli%2C+bici"/>
+   <updated>2012-04-22T00:00:00+02:00</updated>
+   <id>h/2012/04/22/Colli, bici</id>
    <content type="html">&lt;figure class=&quot;center&quot;&gt;  
     &lt;img alt=&quot;prefioritura&quot; src=&quot;http://colleberta.lorenzobraghetto.com/img/fromPost/IMG_20120423_000043.jpg&quot;&gt;
     &lt;figcaption&gt;Colli, il vantaggio di andarci in bici. Tramonto sui colli da via Lungo Argine, Abano&lt;/figcaption&gt;
