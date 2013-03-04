@@ -1,0 +1,244 @@
+/* Override some defaults */
+html, body {
+  background-color: #eee;
+	height: 100%;
+}
+body {
+
+}
+.feed {
+	float:right;
+	margin-right:0px;
+	padding: 10px 0px 0px 0px;
+	color: #BFBFBF;
+}
+.feed img
+{
+	margin-left:5px;
+	vertical-align: middle;
+}
+
+
+.container {
+	width: 1200px;
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -178px; /* the bottom margin is the negative value of the footer's height */
+}
+.push{
+	height: 185px; /* .push must be the same height as .footer */
+	clear:both;
+}
+footer {
+	height: 160px; /* .push must be the same height as .footer */
+	clear:both;
+}
+footer {
+	background: #282828;
+	padding-top:17px;
+	border-top:1px solid #eee;
+ }
+footer p, h3 {
+	font-size: smaller;
+	color: #b2b2b2;
+}
+footer img {
+	vertical-align: middle;
+	margin-right: 4px;
+}
+footer div#container {
+	margin-left:25%;
+	width: 50%;
+	text-align: center;
+}
+footer div.split2 div {
+	float: left;
+	width: 50%;
+}
+footer div.wide {
+	clear: left;
+}
+/*
+
+Sticky Footer by Ryan Fait
+http://ryanfait.com/
+
+*/
+
+/* The white background content wrapper */
+.content {
+  float:left;
+  background-color: #fff;
+  padding: 20px;
+  margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
+  -webkit-border-radius: 0 0 6px 6px;
+     -moz-border-radius: 0 0 6px 6px;
+          border-radius: 0 0 6px 6px;
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+     -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+          box-shadow: 0 1px 2px rgba(0,0,0,.15);
+}
+.social iframe
+{
+	margin-right:5px;
+
+}
+.social div.miogplustw { 
+	float:left;
+	margin-left: 20px;
+	line-height: 10pt;
+ }
+
+.social .fb{
+	float:right;
+	margin-right:20px;
+}
+
+.content img
+{
+	margin: 4px 4px 4px 4px;
+}
+figure.center
+{
+	text-align: center;
+}
+figcaption{
+ font-style: italic;
+ font-size: smaller;
+}
+
+/*.sidebar2 {
+float:right;
+width:270px;
+margin: 45px 0 0 0px;
+  background-color: #fff;
+  padding: 10px;
+  -webkit-border-radius: 6px 6px 6px 6px;
+     -moz-border-radius: 6px 6px 6px 6px;
+          border-radius: 6px 6px 6px 6px;
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+     -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+          box-shadow: 0 1px 2px rgba(0,0,0,.15);
+}
+.sidebar2 a,p
+{
+	font-size: smaller;
+	margin-bottom: 0;
+}
+
+.sidebar2 img{
+	vertical-align: middle;
+	margin: 0px 5px 0px 0px
+}*/
+
+.comment {
+  margin:0px 15px 0px 15px;
+  background-color: #e0e0e0;
+  padding: 15px;
+  -webkit-border-radius: 6px 6px 6px 6px;
+     -moz-border-radius: 6px 6px 6px 6px;
+          border-radius: 6px 6px 6px 6px;
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+     -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+          box-shadow: 0 1px 2px rgba(0,0,0,.15);
+}
+
+.social {
+float:right;
+width:270px;
+margin: 48px 0 0 0px;
+  background-color: #fff;
+  padding: 10px;
+  -webkit-border-radius: 6px 6px 6px 6px;
+     -moz-border-radius: 6px 6px 6px 6px;
+          border-radius: 6px 6px 6px 6px;
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+     -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+          box-shadow: 0 1px 2px rgba(0,0,0,.15);
+}
+
+
+.sidebar {
+float:right;
+width:270px;
+margin: 20px 0 0 20px;
+  background-color: #fff;
+  padding: 10px;
+  -webkit-border-radius: 6px 6px 6px 6px;
+    -moz-border-radius: 6px 6px 6px 6px;
+          border-radius: 6px 6px 6px 6px;
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+     -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+          box-shadow: 0 1px 2px rgba(0,0,0,.15);
+
+}
+
+/* Page header tweaks */
+.page-header {
+  background-color: #f5f5f5;
+  padding: 20px 20px 10px;
+  margin: 20px -20px 20px;
+}
+
+.posts .header, .tag
+{
+  color: #b2b2b2;
+  margin: 8px 0px 4px 0px;
+}
+
+.posts .divider
+{
+background: #CCC;
+border-bottom: 1px solid white;
+height: 1px;
+margin: 20px 0px 20px 0px;
+}
+
+.posts img
+{
+	vertical-align: middle;
+}
+
+.posts .header a
+{
+  color: #7d7d7d;
+  font-size: 20px;
+}
+.topbar .btn {
+  border: 0;
+}
+
+
+/* tag_box ======================================================== */
+
+.tag_box {
+	list-style:none;
+	margin:0;
+	padding:5px 0 ;
+	overflow:hidden;
+}
+.tag_box li {
+	line-height:28px;
+}
+.tag_box.inline li {
+	float:left;
+}
+.tag_box a {
+	padding: 3px 6px;
+	margin: 2px;
+	background: #eee;
+	color:#005F6B;
+	border-radius: 3px;
+	text-decoration:none;
+}
+.tag_box a span{
+	vertical-align:super;
+	font-size:0.8em;
+}
+.tag_box a.active {
+	background:#57A957;
+	border:1px solid #4C964D;
+	color:#FFF;
+}
+	
